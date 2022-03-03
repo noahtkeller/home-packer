@@ -1,0 +1,10 @@
+---
+name: httpd-focal-amd64
+title: Apache HTTPD Focal AMD64 - Hardened
+maintainer: Noah Keller
+license: MIT
+summary: Test suite for best practice Apache HTTPD hardening
+inspec_version: '>= 4.6.3'
+version: 0.0.1
+supports:
+  - os-family: linux
